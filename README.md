@@ -14,4 +14,4 @@ The LSTM-Encoder and BCN sentiment model follow [McCann et al.](https://arxiv.or
 The single layer and three layer CNN sentiment model follow [Kim et. al (2014)](https://ieeexplore.ieee.org/abstract/document/7363395) and [Ouyang et al. (2015)](https://arxiv.org/abs/1408.5882).
 The transformer encoder is based on [Vaswani et al. (2017)](https://arxiv.org/abs/1706.03762). 
 
-This fork includes additional documentation, including a pdf of my report and the poster presented at the [Oxford Computer Science Conference 2019](https://oxfordcsc.com/).
+This fork includes additional documentation, such as a pdf of my report, the poster presented as part of the AML course, and the poster presented at the [Oxford Computer Science Conference 2019](https://oxfordcsc.com/).
