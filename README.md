@@ -2,7 +2,7 @@
 
 This fork includes additional documentation, such as a pdf of my report, the poster presented as part of the AML course, and the poster presented at the [Oxford Computer Science Conference 2019](https://oxfordcsc.com/).
 
-# Orignal README
+# Original README
 
 University of Oxford - Advanced Machine Learning Reproducibility Challenge. Contextualized Word Vectors (CoVe) - https://arxiv.org/pdf/1708.00107.pdf
 
