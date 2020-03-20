@@ -1,6 +1,6 @@
 # AML-CoVe
 
-This fork includes additional documentation, such as a pdf of my report, the poster presented as part of the AML course, and the poster presented at the [Oxford Computer Science Conference 2019](https://oxfordcsc.com/).
+This fork includes additional documentation, such as a pdf of my report, the poster presented as part of the AML course, and the poster presented at the [Oxford Computer Science Conference 2019](https://oxfordcsc.com/2019-conference/).
 
 # Original README
 
